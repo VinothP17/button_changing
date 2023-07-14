@@ -1,0 +1,11 @@
+table{
+    height: 100px;
+    width:200px
+}
+button{
+    width: 110px;
+    height: 40px;
+    box-shadow: 2px 2px 2px;
+    background-color: antiquewhite;
+    border: 2px rgb(243, 105, 13);
+}
